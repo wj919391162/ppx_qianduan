@@ -1,5 +1,5 @@
 # ppx_qianduan
-
+基于ts+vue的一个后台管理前端项目
 ## Project setup
 ```
 npm install
@@ -15,5 +15,4 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
